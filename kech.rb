@@ -4,6 +4,10 @@ class Kech
     @status = status
   end
   
+  def start
+    update!(status: :started)
+  end
+  
   def close!
     @status = "success"
     save!
