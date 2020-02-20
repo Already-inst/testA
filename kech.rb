@@ -8,4 +8,8 @@ class Kech
     @status = "success"
     save!
   end
+  
+  def delete
+    self.delete!
+  end
 end
