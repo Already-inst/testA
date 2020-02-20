@@ -4,5 +4,8 @@ class Kech
     @status = status
   end
   
+  def reset
+    @status = "unstarted"
+  end
   
 end
