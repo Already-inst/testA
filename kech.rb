@@ -1,6 +1,8 @@
 class Kech
 
-  def initialize(status)
+  def initialize(status="unstarted")
     @status = status
   end
+  
+  
 end
