@@ -1,1 +1,7 @@
-glacy.rb
+SLACK_TOKEN_LAC = "xoxb-54123987-asdfglttzzekhruimo"
+
+
+
+
+
+flacon elac="PMAK-5e3c52895351d62230f49163-123cbbbd012251996d81dc089150d40000"
